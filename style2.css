@@ -36,7 +36,7 @@
       border-style:solid;
       position: fixed; /* Set the navbar to fixed position */
       top: 0; /* Position the navbar at the top of the page */
-      width: 96%;
+      width: 99%;
 }
 
 .home img{
@@ -232,4 +232,14 @@ div.desc {
   content: "";
   display: table;
   clear: both;
+}
+.box img {
+    width: 15%;
+    height: 15%;
+    text-align: center;
+}
+
+.box1 img {
+    object-fit: contain;
+    align: center;
 }
